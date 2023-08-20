@@ -1,0 +1,63 @@
+.input{
+    display: flex;
+    flex-direction: column;
+    width: 20vw;
+    font-weight: bold;
+    margin-bottom: 30px;
+    
+}
+
+label{
+    margin-top: 10px;
+}
+.submit{
+    margin-bottom: 20px;
+}
+table{
+    width: 40vw;
+}
+table thead{
+    
+    background-color:#BFF7FE;
+    
+
+}
+table tbody{
+    background-color: #FFD2E5;
+}
+.error{
+    margin-top: 5px;
+    background-color: rgb(189, 42, 42);
+    color: white;
+    width: 20vw;
+    text-align: center;
+    padding: 5px;
+}
+.success{
+    margin-top: 5px;
+    background-color: green;
+    color: white;
+    width: 20vw;
+    text-align: center;
+    padding: 5px;
+}
+.container{
+   
+   
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.book-class{
+    background-color: aquamarine; padding: 10px;
+    margin-bottom:20px ;
+    margin-top: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border: solid black;
+}
+body{
+   
+    background-color: antiquewhite;
+}
